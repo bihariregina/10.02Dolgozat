@@ -1,0 +1,1 @@
+Ez az első szöveg, amit a program fájlba ír.
